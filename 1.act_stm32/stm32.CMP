@@ -1,0 +1,14 @@
+Component   : Type-C_USB
+PCB Library : stm32.PcbLib
+Date        : 2023/7/22
+Time        : 10:26:29
+
+
+
+Dimension : 1277.493 x 1275.563 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Top Overlay                 0          5        0       0        0
+--------------------------------------------------------------------
+ Total                       0          5        0       0        0
